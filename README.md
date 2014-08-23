@@ -1,4 +1,4 @@
-ThinkPython
+Exercises of Think Python book
 ===========
 
 exercise solutions from Think Python: How to Think Like a Computer Scientist
